@@ -1,0 +1,6 @@
+.carousel-image {
+  max-width: 100%; /* Ensure the image doesn't overflow */
+  height: auto; /* Maintain aspect ratio */
+  width: 200px; /* Set your desired width */
+  /* You can also set a height if needed */
+}
